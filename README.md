@@ -10,11 +10,11 @@ I use in hardware
 ## Touch_sensor
 
 I use in software
-## Python
+## C++
 ## Arduino compiler
 
 💻 Software Used
-Python (for communication scripts and UUID handling)
+C++ (for communication scripts and UUID handling)
 
 Arduino IDE / Compiler (for ESP32 firmware development)
 
@@ -36,7 +36,7 @@ Update the printer’s UUID, name, and address in the code.
 
 Upload the code to your ESP32.
 
-Run the Python script to test communication.
+Run the C++ to test communication.
 
 📷 Project Images
 ESP32 Development Board
